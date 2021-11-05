@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1211.217" height="837.014" viewBox="0 0 1211.217 837.014">
+  <g id="methodology" transform="translate(-94.283 -1144.493)">
+    <g id="Group_49" data-name="Group 49">
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="131" height="85" transform="translate(335 1324)" fill="rgba(215,222,228,0.38)"/>
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="131" height="85" transform="translate(406 1583)" fill="rgba(215,222,228,0.38)"/>
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="131" height="85" transform="translate(772 1324)" fill="rgba(215,222,228,0.38)"/>
+      <rect id="Rectangle_125" data-name="Rectangle 125" width="131" height="85" transform="translate(785 1582)" fill="rgba(215,222,228,0.38)"/>
+      <g id="Group_38" data-name="Group 38" transform="translate(-29 -43)">
+        <rect id="Rectangle_118" data-name="Rectangle 118" width="151" height="85" transform="translate(215 1367)" fill="#3d6f8d"/>
+        <path id="Polygon_15" data-name="Polygon 15" d="M43,0,86,30H0Z" transform="translate(396.5 1366.5) rotate(90)" fill="#eb714c"/>
+        <rect id="Rectangle_119" data-name="Rectangle 119" width="70" height="86" transform="translate(145 1367)" fill="#eb714c"/>
+        <text id="Domain_Knowledge" data-name="Domain Knowledge" transform="translate(210 1383)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="44.61" y="16">Domain </tspan><tspan x="30.989" y="36">Knowledge</tspan></text>
+        <text id="_1" data-name="1" transform="translate(160 1393)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">1</tspan></text>
+        <rect id="Rectangle_120" data-name="Rectangle 120" width="242" height="93" rx="19" transform="translate(124 1439)" fill="#d7dee4"/>
+        <text id="Study_and_gather_the_knowledge" data-name="Study and gather the knowledge" transform="translate(160 1466)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="4.383" y="15">Study and gather the </tspan><tspan x="45.426" y="34">knowledge</tspan></text>
+      </g>
+      <g id="Group_44" data-name="Group 44">
+        <rect id="Rectangle_118-2" data-name="Rectangle 118" width="241" height="85" transform="translate(535 1324)" fill="#3d6f8d"/>
+        <path id="Polygon_15-2" data-name="Polygon 15" d="M43,0,86,30H0Z" transform="translate(806.5 1323.5) rotate(90)" fill="#eb714c"/>
+        <rect id="Rectangle_119-2" data-name="Rectangle 119" width="70" height="86" transform="translate(465 1324)" fill="#eb714c"/>
+        <text id="Identify_input_parameters_and_decision_variables" data-name="Identify input parameters and decision variables" transform="translate(530 1340)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="11.931" y="16">Identify input parameters </tspan><tspan x="26.449" y="36">and decision variables</tspan></text>
+        <text id="_2" data-name="2" transform="translate(480 1350)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">2</tspan></text>
+        <rect id="Rectangle_120-2" data-name="Rectangle 120" width="333" height="93" rx="19" transform="translate(444 1396)" fill="#d7dee4"/>
+        <text id="_Factors_which_influence_the_success_of_a_Reinforcement_learning_algorithm_" data-name=" Factors which influence the success of a Reinforcement learning algorithm " transform="translate(480 1409)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="21.902" y="15" xml:space="preserve"> Factors which influence the </tspan><tspan x="25.438" y="34">success of a Reinforcement </tspan><tspan x="61.094" y="53">learning algorithm </tspan></text>
+      </g>
+      <g id="Group_45" data-name="Group 45" transform="translate(0 -3)">
+        <rect id="Rectangle_118-3" data-name="Rectangle 118" width="209" height="85" transform="translate(974 1327)" fill="#3d6f8d"/>
+        <path id="Polygon_15-3" data-name="Polygon 15" d="M43,0,86,30H0Z" transform="translate(1213.5 1326.5) rotate(90)" fill="#eb714c"/>
+        <rect id="Rectangle_119-3" data-name="Rectangle 119" width="70" height="86" transform="translate(904 1327)" fill="#eb714c"/>
+        <text id="Conducting_a_theoretical_experiment" data-name="Conducting a theoretical experiment" transform="translate(974 1343)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="47.262" y="16">Conducting a </tspan><tspan x="6.646" y="36">theoretical experiment</tspan></text>
+        <text id="_3" data-name="3" transform="translate(919 1353)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">3</tspan></text>
+        <rect id="Rectangle_120-3" data-name="Rectangle 120" width="300" height="93" rx="19" transform="translate(883 1399)" fill="#d7dee4"/>
+        <text id="Considering_SARSA_and_Q-learning_conduct_experiments_" data-name="Considering SARSA and Q-learning conduct experiments " transform="translate(927 1412)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="11.152" y="15">Considering SARSA and </tspan><tspan x="28.258" y="34">Q-learning conduct </tspan><tspan x="55.793" y="53">experiments </tspan></text>
+      </g>
+      <g id="Group_46" data-name="Group 46">
+        <rect id="Rectangle_118-4" data-name="Rectangle 118" width="217" height="85" transform="translate(186 1583)" fill="#3d6f8d"/>
+        <path id="Polygon_15-4" data-name="Polygon 15" d="M43,0,86,30H0Z" transform="translate(433.5 1583.5) rotate(90)" fill="#eb714c"/>
+        <rect id="Rectangle_119-4" data-name="Rectangle 119" width="70" height="86" transform="translate(116 1583)" fill="#eb714c"/>
+        <text id="Identify_the_best_possible_algorithm" data-name="Identify the best possible algorithm" transform="translate(181 1599)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="34.7" y="16">Identify the best </tspan><tspan x="25.354" y="36">possible algorithm</tspan></text>
+        <text id="_4" data-name="4" transform="translate(131 1609)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">4</tspan></text>
+        <rect id="Rectangle_120-4" data-name="Rectangle 120" width="309" height="93" rx="19" transform="translate(95 1655)" fill="#d7dee4"/>
+        <text id="Consider_the_outputs_of_the_algorithm_compare_and_identify_the_best_possible_algorithm" data-name="Consider the outputs of the algorithm compare and identify the best possible algorithm" transform="translate(117 1669)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="25.727" y="15">Consider the outputs of the </tspan><tspan x="8.797" y="34">algorithm compare and identify </tspan><tspan x="26.969" y="53">the best possible algorithm</tspan></text>
+      </g>
+      <g id="Group_47" data-name="Group 47">
+        <rect id="Rectangle_118-5" data-name="Rectangle 118" width="221" height="85" transform="translate(571 1583)" fill="#3d6f8d"/>
+        <path id="Polygon_15-5" data-name="Polygon 15" d="M43,0,86,30H0Z" transform="translate(821.5 1583.5) rotate(90)" fill="#eb714c"/>
+        <rect id="Rectangle_119-5" data-name="Rectangle 119" width="70" height="86" transform="translate(501 1583)" fill="#eb714c"/>
+        <text id="Implement_the_practical_approach" data-name="Implement the practical approach" transform="translate(566 1599)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="9.859" y="16">Implement the practical </tspan><tspan x="72.774" y="36">approach</tspan></text>
+        <text id="_5" data-name="5" transform="translate(516 1609)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">5</tspan></text>
+        <rect id="Rectangle_120-5" data-name="Rectangle 120" width="312" height="93" rx="19" transform="translate(480 1655)" fill="#d7dee4"/>
+        <text id="Modify_the_algorithm_to_compute_for_the_real-world_application_" data-name="Modify the algorithm to compute for the real-world application " transform="translate(501 1670)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="2.922" y="15">Modify the algorithm to compute </tspan><tspan x="17.996" y="34">for the real-world application </tspan></text>
+      </g>
+      <g id="Group_48" data-name="Group 48">
+        <rect id="Rectangle_118-6" data-name="Rectangle 118" width="235" height="85" transform="translate(985 1583)" fill="#3d6f8d"/>
+        <rect id="Rectangle_119-6" data-name="Rectangle 119" width="70" height="86" transform="translate(915 1583)" fill="#eb714c"/>
+        <rect id="Rectangle_121" data-name="Rectangle 121" width="40" height="86" transform="translate(1220 1582)" fill="#eb714c"/>
+        <text id="Analyze_the_output" data-name="Analyze the output" transform="translate(1017 1599)" fill="#fff" font-size="17" font-family="LucidaFax, Lucida Fax"><tspan x="27.058" y="16">Analyze the </tspan><tspan x="49.005" y="36">output</tspan></text>
+        <text id="_6" data-name="6" transform="translate(930 1609)" fill="#fff" font-size="17" font-family="LucidaFax-Demi, Lucida Fax" font-weight="300"><tspan x="14.868" y="16">6</tspan></text>
+        <rect id="Rectangle_120-6" data-name="Rectangle 120" width="326" height="93" rx="19" transform="translate(894 1655)" fill="#d7dee4"/>
+        <text id="Consider_the_computational_resources_and_the_overall_time_to_reach_the_optimal_output_" data-name="Consider the computational resources and the overall time to reach the optimal output " transform="translate(915 1669)" fill="#184d6e" font-size="16" font-family="LucidaFax, Lucida Fax"><tspan x="30.867" y="15">Consider the computational </tspan><tspan x="9.734" y="34">resources and the overall time to </tspan><tspan x="42.715" y="53">reach the optimal output </tspan></text>
+      </g>
+      <path id="Path_19" data-name="Path 19" d="M8265.5,1366.5h36.952v175.367H7147.783v80.057h19.455" transform="translate(-7052)" fill="none" stroke="#3d6f8d" stroke-width="3" stroke-dasharray="9 3"/>
+      <path id="Path_20" data-name="Path 20" d="M7485.5,1625.5h66.341" transform="translate(-7052)" fill="none" stroke="#3d6f8d" stroke-width="3" stroke-dasharray="9 3"/>
+      <path id="Path_21" data-name="Path 21" d="M7485.5,1625.5H7580" transform="translate(-6664)" fill="none" stroke="#3d6f8d" stroke-width="3" stroke-dasharray="9 3"/>
+      <path id="Path_22" data-name="Path 22" d="M7485.5,1625.5h97.4" transform="translate(-6679 -259)" fill="none" stroke="#3d6f8d" stroke-width="3" stroke-dasharray="9 3"/>
+      <path id="Path_23" data-name="Path 23" d="M7485.5,1625.5h97.4" transform="translate(-7118 -259)" fill="none" stroke="#3d6f8d" stroke-width="3" stroke-dasharray="9 3"/>
+    </g>
+    <line id="Line_87" data-name="Line 87" x1="3" y2="837" transform="translate(1300.5 1144.5)" fill="none" stroke="#3d6f8d" stroke-width="4" stroke-dasharray="16 5"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+#footer .copyright-content {
+    padding: 20px 0 !important;
+}
+.icon-box {
+  margin-bottom: 25px !important;
+  position: relative; }
+
+.para-bg{
+  background-color: #F4F4F4;
+  max-width: 50%;
+  border-radius: 5px;
+}
+
+#header.blue{
+  background-color: #184D6E;
+}
+.revent-icon{
+  background: url("../img/logo/revent-icon.png");
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50px;
+}
+
+@media (max-width:990px) {
+    .teamImage{
+        height: 105px;
+        width:105px !important;
+    }
+}
+@media (max-width:576px) {
+    .teamImage{
+        height: 105px;
+        width:105px !important;
+    }
+}
